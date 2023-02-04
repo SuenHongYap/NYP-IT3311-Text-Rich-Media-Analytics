@@ -12,3 +12,13 @@ You are required to determine the category of a video given its title, transcrip
 You have been tasked to build:
 1. A text classification model to classify the video category based on its title and transcript.
 2. An image classification model to classify the video category based on its thumbnail. This analysis aims to be accompaniment to the results of the text classification.
+
+# Task 1: Text Classification (20 marks)
+
+You are required to build a text classification model to predict the video category based on its title and transcript.
+
+Rename Task1TextClassificationStarter.ipynb to <AdminNo>_TextClassification.ipynb and complete the following tasks:
+1. Data Understanding: Examine the dataset
+2. Data Preparation: Prepares the data and all necessary preprocessing tasks
+3. Modelling: Use different text representation and algorithms
+4. Evaluation: Evaluates results from the algorithms and select the best model
