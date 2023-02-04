@@ -17,8 +17,18 @@ You have been tasked to build:
 
 You are required to build a text classification model to predict the video category based on its title and transcript.
 
-Rename Task1TextClassificationStarter.ipynb to <AdminNo>_TextClassification.ipynb and complete the following tasks:
+Complete the following tasks:
 1. Data Understanding: Examine the dataset
 2. Data Preparation: Prepares the data and all necessary preprocessing tasks
 3. Modelling: Use different text representation and algorithms
+4. Evaluation: Evaluates results from the algorithms and select the best model
+
+# Task 2: Image Classification (20 marks)
+
+You are required to build an image classification model to predict the video category based its thumbnail. This analysis aims to be accompaniment to the results of the text classification and the possibilities of using the image classification results together for video category classification.
+
+Complete the following tasks:
+1. Data Understanding: Examine the dataset
+2. Data Preparation: Prepares the data and all necessary preprocessing tasks
+3. Modelling: Use different image representation and algorithms
 4. Evaluation: Evaluates results from the algorithms and select the best model
