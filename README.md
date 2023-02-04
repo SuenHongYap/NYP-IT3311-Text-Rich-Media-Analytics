@@ -1,4 +1,4 @@
-# NYP-IT3311-Text-Rich-Media-Analytics
+# NYP-IT3311-Text & Rich Media Analytics
 
 # Background
 
